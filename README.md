@@ -24,3 +24,5 @@ I was out of 13k and 15k resistors when I built this so substituted:
 which works fine.
 
 The Degson pluggable terminal block is what I have on my bench supply wires. Change it if you need to.
+
+![oat](Images/oat.jpg)
